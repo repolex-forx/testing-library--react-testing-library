@@ -1,0 +1,7 @@
+[2026-09-17T20:32:55Z] === AST ITERATION 1 START | repo=testing-library/react-testing-library sha=f32bd1b0 ===
+[2026-09-17T20:32:55Z] [iter=1] PHASE START: ast repo=testing-library/react-testing-library sha=f32bd1b0
+[2026-09-17T20:32:55Z] [iter=1] Building AST aggregate chunks
+[2026-09-17T20:33:01Z] [iter=1] AST chunks built count=1 triples=95205
+[2026-09-17T20:33:01Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/f32bd1b033d5e3989ae1cb490d515ce389c54e53/.complete
+[2026-09-17T20:33:01Z] [iter=1] PHASE END: ast elapsed_s=7 elapsed_min=0.1
+[2026-09-17T20:33:01Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
